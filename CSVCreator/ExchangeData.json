@@ -1,0 +1,800 @@
+{
+  "data": {
+    "exchangeByFileId": {
+      "id": "e1acaca8-b9ae-3d4c-bb2e-f4d1f2c0ba30",
+      "name": "AngleSupportPair_3",
+      "elements": {
+        "pagination": {
+          "pageSize": 28,
+          "cursor": ""
+        },
+        "results": [
+          {
+            "name": "Angle Support:2",
+            "id": "E0B4F6805DFD1E1F9168E60F8403FBB4803D094C",
+            "properties": {
+              "results": [
+                {
+                  "name": "name",
+                  "value": "Angle Support:2"
+                },
+                {
+                  "name": "Category",
+                  "value": "Category Angle Support:1"
+                },
+                {
+                  "name": "PartNumber",
+                  "value": "Angle Support PN"
+                },
+                {
+                  "name": "Description",
+                  "value": "Angle Support:1"
+                },
+                {
+                  "name": "Operation",
+                  "value": "INSERT"
+                }
+              ]
+            }
+          },
+          {
+            "name": "Angle Support:2",
+            "id": "E0B4F6805DFD1E1F9168E60F8403FBB4803D094C",
+            "properties": {
+              "results": [
+                {
+                  "name": "name",
+                  "value": "Angle Support:2"
+                },
+                {
+                  "name": "Category",
+                  "value": "Category Angle Support:1"
+                },
+                {
+                  "name": "PartNumber",
+                  "value": "Angle Support PN"
+                },
+                {
+                  "name": "Description",
+                  "value": "Angle Support:1"
+                },
+                {
+                  "name": "Operation",
+                  "value": "INSERT"
+                }
+              ]
+            }
+          },
+          {
+            "name": "Handle:1",
+            "id": "6E05C26EA70F3DF197989938B0B11C2AA68BC396",
+            "properties": {
+              "results": [
+                {
+                  "name": "name",
+                  "value": "Handle:1"
+                },
+                {
+                  "name": "Category",
+                  "value": ""
+                },
+                {
+                  "name": "PartNumber",
+                  "value": "Handle"
+                },
+                {
+                  "name": "Description",
+                  "value": ""
+                },
+                {
+                  "name": "Operation",
+                  "value": "INSERT"
+                }
+              ]
+            }
+          },
+          {
+            "name": "1204121018:1",
+            "id": "6CF1C8A04AC1FD000BA0530FD9F298E46E46D386",
+            "properties": {
+              "results": [
+                {
+                  "name": "name",
+                  "value": "1204121018:1"
+                },
+                {
+                  "name": "Category",
+                  "value": ""
+                },
+                {
+                  "name": "PartNumber",
+                  "value": "1204121018"
+                },
+                {
+                  "name": "Description",
+                  "value": ""
+                },
+                {
+                  "name": "Operation",
+                  "value": "INSERT"
+                }
+              ]
+            }
+          },
+          {
+            "name": "1204120954:1",
+            "id": "19AA587300890C93412254207A43BBCD3509D900",
+            "properties": {
+              "results": [
+                {
+                  "name": "name",
+                  "value": "1204120954:1"
+                },
+                {
+                  "name": "Category",
+                  "value": ""
+                },
+                {
+                  "name": "PartNumber",
+                  "value": "1204120954"
+                },
+                {
+                  "name": "Description",
+                  "value": ""
+                },
+                {
+                  "name": "Operation",
+                  "value": "INSERT"
+                }
+              ]
+            }
+          },
+          {
+            "name": "1204120954:1",
+            "id": "19AA587300890C93412254207A43BBCD3509D900",
+            "properties": {
+              "results": [
+                {
+                  "name": "name",
+                  "value": "1204120954:1"
+                },
+                {
+                  "name": "Category",
+                  "value": ""
+                },
+                {
+                  "name": "PartNumber",
+                  "value": "1204120954"
+                },
+                {
+                  "name": "Description",
+                  "value": ""
+                },
+                {
+                  "name": "Operation",
+                  "value": "INSERT"
+                }
+              ]
+            }
+          },
+          {
+            "name": "1204111013:1",
+            "id": "2EEF7DFEF84751D0DD3DE61C676F89F5C256503E",
+            "properties": {
+              "results": [
+                {
+                  "name": "name",
+                  "value": "1204111013:1"
+                },
+                {
+                  "name": "Category",
+                  "value": ""
+                },
+                {
+                  "name": "PartNumber",
+                  "value": "1204111013"
+                },
+                {
+                  "name": "Description",
+                  "value": ""
+                },
+                {
+                  "name": "Operation",
+                  "value": "INSERT"
+                }
+              ]
+            }
+          },
+          {
+            "name": "1204111013:1",
+            "id": "2EEF7DFEF84751D0DD3DE61C676F89F5C256503E",
+            "properties": {
+              "results": [
+                {
+                  "name": "name",
+                  "value": "1204111013:1"
+                },
+                {
+                  "name": "Category",
+                  "value": ""
+                },
+                {
+                  "name": "PartNumber",
+                  "value": "1204111013"
+                },
+                {
+                  "name": "Description",
+                  "value": ""
+                },
+                {
+                  "name": "Operation",
+                  "value": "INSERT"
+                }
+              ]
+            }
+          },
+          {
+            "name": "Angle Support:1",
+            "id": "547E0A6CA4FE9652C30158BC0501FDF9DD5408BA",
+            "properties": {
+              "results": [
+                {
+                  "name": "name",
+                  "value": "Angle Support:1"
+                },
+                {
+                  "name": "Category",
+                  "value": "Category Angle Support:1"
+                },
+                {
+                  "name": "PartNumber",
+                  "value": "Angle Support PN"
+                },
+                {
+                  "name": "Description",
+                  "value": "Angle Support:1"
+                },
+                {
+                  "name": "Operation",
+                  "value": "INSERT"
+                }
+              ]
+            }
+          },
+          {
+            "name": "Angle Support:1",
+            "id": "547E0A6CA4FE9652C30158BC0501FDF9DD5408BA",
+            "properties": {
+              "results": [
+                {
+                  "name": "name",
+                  "value": "Angle Support:1"
+                },
+                {
+                  "name": "Category",
+                  "value": "Category Angle Support:1"
+                },
+                {
+                  "name": "PartNumber",
+                  "value": "Angle Support PN"
+                },
+                {
+                  "name": "Description",
+                  "value": "Angle Support:1"
+                },
+                {
+                  "name": "Operation",
+                  "value": "INSERT"
+                }
+              ]
+            }
+          },
+          {
+            "name": "Fitting:1",
+            "id": "EAA8F076C81150549F0D941B1688A16F02FBE301",
+            "properties": {
+              "results": [
+                {
+                  "name": "name",
+                  "value": "Fitting:1"
+                },
+                {
+                  "name": "Category",
+                  "value": ""
+                },
+                {
+                  "name": "PartNumber",
+                  "value": "1204111013"
+                },
+                {
+                  "name": "Description",
+                  "value": ""
+                },
+                {
+                  "name": "Operation",
+                  "value": "INSERT"
+                }
+              ]
+            }
+          },
+          {
+            "name": "Fitting:1",
+            "id": "EAA8F076C81150549F0D941B1688A16F02FBE301",
+            "properties": {
+              "results": [
+                {
+                  "name": "name",
+                  "value": "Fitting:1"
+                },
+                {
+                  "name": "Category",
+                  "value": ""
+                },
+                {
+                  "name": "PartNumber",
+                  "value": "1204111013"
+                },
+                {
+                  "name": "Description",
+                  "value": ""
+                },
+                {
+                  "name": "Operation",
+                  "value": "INSERT"
+                }
+              ]
+            }
+          },
+          {
+            "name": "Valve:1",
+            "id": "5C6940381777FF7665F5E6232DCCC3B7E8C2649C",
+            "properties": {
+              "results": [
+                {
+                  "name": "name",
+                  "value": "Valve:1"
+                },
+                {
+                  "name": "Category",
+                  "value": ""
+                },
+                {
+                  "name": "PartNumber",
+                  "value": "Valve"
+                },
+                {
+                  "name": "Description",
+                  "value": ""
+                },
+                {
+                  "name": "Operation",
+                  "value": "INSERT"
+                }
+              ]
+            }
+          },
+          {
+            "name": "Valve:1",
+            "id": "5C6940381777FF7665F5E6232DCCC3B7E8C2649C",
+            "properties": {
+              "results": [
+                {
+                  "name": "name",
+                  "value": "Valve:1"
+                },
+                {
+                  "name": "Category",
+                  "value": ""
+                },
+                {
+                  "name": "PartNumber",
+                  "value": "Valve"
+                },
+                {
+                  "name": "Description",
+                  "value": ""
+                },
+                {
+                  "name": "Operation",
+                  "value": "INSERT"
+                }
+              ]
+            }
+          },
+          {
+            "name": "1204111001:1",
+            "id": "BF7BB0511A7B60B19010ED67527D86DE5D52370F",
+            "properties": {
+              "results": [
+                {
+                  "name": "name",
+                  "value": "1204111001:1"
+                },
+                {
+                  "name": "Category",
+                  "value": ""
+                },
+                {
+                  "name": "PartNumber",
+                  "value": "1204111001"
+                },
+                {
+                  "name": "Description",
+                  "value": ""
+                },
+                {
+                  "name": "Operation",
+                  "value": "INSERT"
+                }
+              ]
+            }
+          },
+          {
+            "name": "1204111001:1",
+            "id": "BF7BB0511A7B60B19010ED67527D86DE5D52370F",
+            "properties": {
+              "results": [
+                {
+                  "name": "name",
+                  "value": "1204111001:1"
+                },
+                {
+                  "name": "Category",
+                  "value": ""
+                },
+                {
+                  "name": "PartNumber",
+                  "value": "1204111001"
+                },
+                {
+                  "name": "Description",
+                  "value": ""
+                },
+                {
+                  "name": "Operation",
+                  "value": "INSERT"
+                }
+              ]
+            }
+          },
+          {
+            "name": "Nozzle:1",
+            "id": "5C57A02362AD945A85F55B0A7DAC87255F042506",
+            "properties": {
+              "results": [
+                {
+                  "name": "name",
+                  "value": "Nozzle:1"
+                },
+                {
+                  "name": "Category",
+                  "value": ""
+                },
+                {
+                  "name": "PartNumber",
+                  "value": "1209080702"
+                },
+                {
+                  "name": "Description",
+                  "value": ""
+                },
+                {
+                  "name": "Operation",
+                  "value": "INSERT"
+                }
+              ]
+            }
+          },
+          {
+            "name": "Nozzle:1",
+            "id": "5C57A02362AD945A85F55B0A7DAC87255F042506",
+            "properties": {
+              "results": [
+                {
+                  "name": "name",
+                  "value": "Nozzle:1"
+                },
+                {
+                  "name": "Category",
+                  "value": ""
+                },
+                {
+                  "name": "PartNumber",
+                  "value": "1209080702"
+                },
+                {
+                  "name": "Description",
+                  "value": ""
+                },
+                {
+                  "name": "Operation",
+                  "value": "INSERT"
+                }
+              ]
+            }
+          },
+          {
+            "name": "Pot:1",
+            "id": "6552688098D3092C8CC84DFE138D9DDC85DCD967",
+            "properties": {
+              "results": [
+                {
+                  "name": "name",
+                  "value": "Pot:1"
+                },
+                {
+                  "name": "Category",
+                  "value": ""
+                },
+                {
+                  "name": "PartNumber",
+                  "value": "Pot"
+                },
+                {
+                  "name": "Description",
+                  "value": ""
+                },
+                {
+                  "name": "Operation",
+                  "value": "INSERT"
+                }
+              ]
+            }
+          },
+          {
+            "name": "Pot:1",
+            "id": "6552688098D3092C8CC84DFE138D9DDC85DCD967",
+            "properties": {
+              "results": [
+                {
+                  "name": "name",
+                  "value": "Pot:1"
+                },
+                {
+                  "name": "Category",
+                  "value": ""
+                },
+                {
+                  "name": "PartNumber",
+                  "value": "Pot"
+                },
+                {
+                  "name": "Description",
+                  "value": ""
+                },
+                {
+                  "name": "Operation",
+                  "value": "INSERT"
+                }
+              ]
+            }
+          },
+          {
+            "name": "Kettle Lid:1",
+            "id": "E93EA4EF1731FF686B158D1DD31351F45AED364D",
+            "properties": {
+              "results": [
+                {
+                  "name": "name",
+                  "value": "Kettle Lid:1"
+                },
+                {
+                  "name": "Category",
+                  "value": "Kettle Lid"
+                },
+                {
+                  "name": "PartNumber",
+                  "value": "Kettle Lid"
+                },
+                {
+                  "name": "Description",
+                  "value": "Kettle Lid"
+                },
+                {
+                  "name": "Operation",
+                  "value": "INSERT"
+                }
+              ]
+            }
+          },
+          {
+            "name": "Kettle Lid:1",
+            "id": "E93EA4EF1731FF686B158D1DD31351F45AED364D",
+            "properties": {
+              "results": [
+                {
+                  "name": "name",
+                  "value": "Kettle Lid:1"
+                },
+                {
+                  "name": "Category",
+                  "value": "Kettle Lid"
+                },
+                {
+                  "name": "PartNumber",
+                  "value": "Kettle Lid"
+                },
+                {
+                  "name": "Description",
+                  "value": "Kettle Lid"
+                },
+                {
+                  "name": "Operation",
+                  "value": "INSERT"
+                }
+              ]
+            }
+          },
+          {
+            "name": "burner",
+            "id": "AF4C8E3C6288A0AE63B402781A5EBBD4FFFD4483",
+            "properties": {
+              "results": [
+                {
+                  "name": "name",
+                  "value": "burner"
+                },
+                {
+                  "name": "Category",
+                  "value": ""
+                },
+                {
+                  "name": "PartNumber",
+                  "value": "Small Burner"
+                },
+                {
+                  "name": "Description",
+                  "value": ""
+                },
+                {
+                  "name": "Operation",
+                  "value": "INSERT"
+                }
+              ]
+            }
+          },
+          {
+            "name": "Kettle:1",
+            "id": "8C8F074B7E6294FB9F20CCEA5500456B8FDA8738",
+            "properties": {
+              "results": [
+                {
+                  "name": "name",
+                  "value": "Kettle:1"
+                },
+                {
+                  "name": "Category",
+                  "value": "Kettle Demo"
+                },
+                {
+                  "name": "PartNumber",
+                  "value": "Kettle"
+                },
+                {
+                  "name": "Description",
+                  "value": "Kettle"
+                },
+                {
+                  "name": "Operation",
+                  "value": "INSERT"
+                }
+              ]
+            }
+          },
+          {
+            "name": "Kettle:1",
+            "id": "8C8F074B7E6294FB9F20CCEA5500456B8FDA8738",
+            "properties": {
+              "results": [
+                {
+                  "name": "name",
+                  "value": "Kettle:1"
+                },
+                {
+                  "name": "Category",
+                  "value": "Kettle Demo"
+                },
+                {
+                  "name": "PartNumber",
+                  "value": "Kettle"
+                },
+                {
+                  "name": "Description",
+                  "value": "Kettle"
+                },
+                {
+                  "name": "Operation",
+                  "value": "INSERT"
+                }
+              ]
+            }
+          },
+          {
+            "name": "Handle:1",
+            "id": "6E05C26EA70F3DF197989938B0B11C2AA68BC396",
+            "properties": {
+              "results": [
+                {
+                  "name": "name",
+                  "value": "Handle:1"
+                },
+                {
+                  "name": "Category",
+                  "value": ""
+                },
+                {
+                  "name": "PartNumber",
+                  "value": "Handle"
+                },
+                {
+                  "name": "Description",
+                  "value": ""
+                },
+                {
+                  "name": "Operation",
+                  "value": "INSERT"
+                }
+              ]
+            }
+          },
+          {
+            "name": "1204121018:1",
+            "id": "6CF1C8A04AC1FD000BA0530FD9F298E46E46D386",
+            "properties": {
+              "results": [
+                {
+                  "name": "name",
+                  "value": "1204121018:1"
+                },
+                {
+                  "name": "Category",
+                  "value": ""
+                },
+                {
+                  "name": "PartNumber",
+                  "value": "1204121018"
+                },
+                {
+                  "name": "Description",
+                  "value": ""
+                },
+                {
+                  "name": "Operation",
+                  "value": "INSERT"
+                }
+              ]
+            }
+          },
+          {
+            "name": "burner",
+            "id": "AF4C8E3C6288A0AE63B402781A5EBBD4FFFD4483",
+            "properties": {
+              "results": [
+                {
+                  "name": "name",
+                  "value": "burner"
+                },
+                {
+                  "name": "Category",
+                  "value": ""
+                },
+                {
+                  "name": "PartNumber",
+                  "value": "Small Burner"
+                },
+                {
+                  "name": "Description",
+                  "value": ""
+                },
+                {
+                  "name": "Operation",
+                  "value": "INSERT"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
+}
